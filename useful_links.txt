@@ -1,0 +1,1 @@
+https://testdriven.io/blog/django-spa-auth/ # for session based authentication

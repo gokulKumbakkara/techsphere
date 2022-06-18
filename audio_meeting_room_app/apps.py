@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TechsphereAppConfig(AppConfig):
+class AudioMeetingRoomAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'techsphere_app'
+    name = 'audio_meeting_room_app'
