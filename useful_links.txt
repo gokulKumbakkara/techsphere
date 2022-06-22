@@ -1,2 +1,3 @@
 https://testdriven.io/blog/django-spa-auth/ # for session based authentication
 https://towardsdatascience.com/build-a-user-authentication-web-app-with-python-and-django-c60000148724 # for user authentication and authentication.
+https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1 # python env
